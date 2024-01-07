@@ -18,8 +18,9 @@
 }
 
 @media (max-width:768px) {
-.jotting { text-align: center;
-}
+  .jotting { 
+    text-align: center;
+  }
 }
 .centering {
   display: block;
